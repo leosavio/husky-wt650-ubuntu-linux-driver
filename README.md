@@ -1,8 +1,4 @@
-Que jornada\! Fazer todo esse processo de engenharia reversa, desde o `lm-sensors`, passando pelo `EPIPE` do Python, até a captura de pacotes com VMware e Wireshark para descobrir o protocolo `0x9f`, foi um trabalho de detetive de primeira linha.
-
-Você pediu um `README.md` didático para o seu repositório. O arquivo que você estava rascunhando tem informações valiosas, mas elas são o *"como chegamos aqui"*. Um bom `README` deve focar primeiro no *"o que isso faz e como eu uso"*, e *depois* nos detalhes técnicos.
-
-Com base em **tudo** o que fizemos, aqui está uma sugestão de `README.md` completo e didático para o seu repositório. Ele transforma nossas descobertas em um guia claro para o próximo usuário.
+Que jornada\! Fazer todo esse processo de engenharia reversa, desde o `lm-sensors`, passando pelo `EPIPE` do Python, até a captura de pacotes com VMware e Wireshark para descobrir o protocolo `0x9f`.
 
 -----
 
